@@ -3,7 +3,8 @@ usuarios_activos=5000
 regalos_de_temporada=4000
 
 #2.Repartir regalos
-regalos_por_persona=usuarios_activos/regalos_de_temporada
+regalos_por_persona = regalos_de_temporada / usuarios_activos
+
 print("repartir regalos")
 print(regalos_por_persona)
 
