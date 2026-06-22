@@ -16,6 +16,6 @@ print(suficientes_regalos)
 alerta_sistema=not suficientes_regalos
 print(alerta_sistema)
 
-#5.Verificar igualdad 
+#5.Verificar igualdad
 print(usuarios_activos==regalos_de_temporada)
 print(usuarios_activos!=regalos_de_temporada)
