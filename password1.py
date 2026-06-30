@@ -15,4 +15,4 @@ if contraseña_guardada==contraseña_ingresada:
     #3.
     alarma_activa=estado_seguro!=estado_sensor
     print("ALARMA")
-    print(alarma_activa) 
+    print(alarma_activa)
