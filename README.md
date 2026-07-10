@@ -1,5 +1,5 @@
-🚀 Repositorio de Proyectos: AbiCode
-Bienvenido a mi repositorio personal de desarrollo. Aquí documento mi evolución como programador, desde los primeros pasos en lógica de seguridad hasta la creación de asistentes inteligentes.
+🚀 Repositorio de Proyectos :
+Bienvenido a mi repositorio personal de desarrollo. Aquí documento mi evolución como programador.
 
 📂 Proyectos Destacados
 🤖 BOBBY 2.0 (Asistente de Viajes)
@@ -18,9 +18,6 @@ Mis primeros experimentos conceptuales combinando programación con mi interés 
 Ahorro.py: Gestión de finanzas personales.
 medicinas.py: Registro y control de insumos.
 virus.py: Ejercicio de lógica aplicada a sistemas.
-
-📈 Mi Evolución como Desarrollador
-Este repositorio no solo contiene código; es el registro de mi aprendizaje autodidacta. Cada versión (v1 -> v2) representa un reto superado, errores de sintaxis aprendidos y la búsqueda constante de un código más limpio y eficiente.
 
 💻 Tech Stack
 Lenguaje: Python
